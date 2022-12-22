@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca8d3729-c9bc-4abf-a97e-376e8ec73e79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanka.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad3.java" afterDir="false" />
+    <list default="true" id="ca8d3729-c9bc-4abf-a97e-376e8ec73e79" name="Changes" comment="Koniec zadania 3. Znajdź najdłuższy ciąg znaków bez powtórzeń">
+      <change afterPath="$PROJECT_DIR$/src/zad4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +43,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.zad4">
     <configuration name="zad3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zad3" />
       <module name="Zadanka" />
@@ -56,8 +51,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zad4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad4" />
+      <module name="Zadanka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zad4" />
         <item itemvalue="Application.zad3" />
       </list>
     </recent_temporary>
@@ -70,8 +73,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671662227603</updated>
-      <workItem from="1671662229015" duration="2276000" />
+      <workItem from="1671662229015" duration="5229000" />
     </task>
+    <task id="LOCAL-00001" summary="Koniec zadania 3. Znajdź najdłuższy ciąg znaków bez powtórzeń">
+      <created>1671665238114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671665238114</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Koniec zadania 3. Znajdź najdłuższy ciąg znaków bez powtórzeń" />
+    <option name="LAST_COMMIT_MESSAGE" value="Koniec zadania 3. Znajdź najdłuższy ciąg znaków bez powtórzeń" />
   </component>
 </project>
